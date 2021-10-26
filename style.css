@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	width:960px;
+	margin: 0 auto;
+	background-color: antiquewhite;
+	text-align: center;}
+
+h1{
+	color: black;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif ;
+	font-weight: lighter;
+	font-style:oblique;
+	font-size: 60px;
+	text-align: center;
+	background-color: rgba(168,218,163,1.00);
+	height: 60px;}
+
+h2{
+color: darkgreen;
+font-family: Georgia;}
+
+a:link{
+	color: darkgreen;
+	text-decoration: none;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";}
+
+a:visited {
+	color:black;}
+
+a:hover {
+	text-decoration: underline;}
+
+a:active
+
+nav{ 
+display: inline;
+margin-right: 10px;}
+	
+figcaption{
+	background-color: blanchedalmond;}
+	
+.column {
+	float: left;
+	width: 300px;
+	margin 5px;}
+
+#left {
+	float: left;
+	width: 300px;}
+
+p.one {border-style: groove;}
+
+li{
+display: inline;
+margin-right: 120px;}
+
+
+
+
+
+
+
+
+
